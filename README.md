@@ -7,4 +7,18 @@ Fork this repository to create your own github repository. Then copy the URL of 
 
 Good luck, have fun! :)
 
+<b>Important</b>: The AssortedTest class has been implemented using JUnit5, not JUnit4. When you hover your cursor over the red text 'junit', click 'More actions...' then click on 'Add 'JUnit5.8.1' to classpath'.
+
+
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/57818506/220793896-76d009d0-d149-45e6-a867-b25f4c4d3579.png">
+
+![image](https://user-images.githubusercontent.com/57818506/220794394-307c0957-762d-4209-ab7c-2a8dc05e36c8.png)
+
+![image](https://user-images.githubusercontent.com/57818506/220794612-404d312a-f85e-47bb-abe1-65aeb6b7078e.png)
+
+
+
+
+
+
 
